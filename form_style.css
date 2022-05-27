@@ -1,0 +1,6 @@
+input:required{
+    border: dashed red
+}
+input:invalid{
+    border: solid blue
+}
